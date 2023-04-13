@@ -1,7 +1,3 @@
-# causal_effect_networks
-
-
-
 Para este proyecto estoy usando simulaciones historicas y escenarios
 
 Evaluo una causal effect network donde los drivers son: 
